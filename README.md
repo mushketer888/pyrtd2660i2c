@@ -7,4 +7,6 @@ This python script uses Linux SMBus I2C bus. You can program this chip for examp
 It can be buggy and it is quite slow! (>10 min to flash)
 Anyway it works fine!
 
-In file main.py uncomment what you need: to download or upload firmware.
+# In file main.py uncomment what you need: to download or upload firmware.
+
+This project also contains firmwares for video adapter/lcd controller with this chip in binary format!
