@@ -10,3 +10,4 @@ Anyway it works fine!
 # In file main.py uncomment what you need: to download or upload firmware.
 
 This project also contains firmwares for video adapter/lcd controller with this chip in binary format!
+Feel free to help this project!
